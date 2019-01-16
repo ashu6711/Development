@@ -1,0 +1,16 @@
+invoice no. 1380
+Date of purchase: 2018/1/12
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: Farsi
+Name of the product: iphonex
+No. of iphonex= 4
+Total amount for iphonex= 4000
+Total cost of the products= 4000.0
+Discount= 10%
+The Final cost of the products after discount= 3600.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)

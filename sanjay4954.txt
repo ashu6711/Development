@@ -1,0 +1,19 @@
+invoice no. 4954
+Date of purchase: 2018/5/28
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: sanjay
+Name of the product: printer
+No. of printer= 5
+Name of the product: iphonex
+No. of iphonex= 5
+Total amount for printer= 2500
+Total amount for iphonex= 5000
+Total cost of the products= 7500.0
+Discount= 10%
+The Final cost of the products after discount= 6750.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)

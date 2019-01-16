@@ -1,0 +1,4 @@
+pixelxl,900,491
+printer,500,640
+iphonex,1000,624
+dell7567,1100,25

@@ -1,0 +1,19 @@
+invoice no. 891
+Date of purchase: 2018/2/25
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: brij
+Name of the product: desktop
+No. of desktop= 10
+Name of the product: printer
+No. of printer= 2
+Total amount for desktop= 12000
+Total amount for printer= 1000
+Total cost of the products= 13000.0
+Discount= 10%
+The Final cost of the products after discount= 11700.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)

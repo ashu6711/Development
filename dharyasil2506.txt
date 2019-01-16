@@ -1,0 +1,19 @@
+invoice no. 2506
+Date of purchase: 2018/1/26
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: dharyasil
+Name of the product: pixelxl
+No. of pixelxl= 5
+Name of the product: iphonex
+No. of iphonex= 10
+Total amount for pixelxl= 4500
+Total amount for iphonex= 10000
+Total cost of the products= 14500.0
+Discount= 10%
+The Final cost of the products after discount= 13050.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)

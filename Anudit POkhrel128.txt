@@ -1,0 +1,16 @@
+invoice no. 128
+Date of purchase: 2018/5/22
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: Anudit POkhrel
+Name of the product: pixelxl
+No. of pixelxl= 45
+Total amount for pixelxl= 40500
+Total cost of the products= 40500.0
+Discount= 45%
+The Final cost of the products after discount= 22275.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)

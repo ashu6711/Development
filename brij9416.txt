@@ -1,0 +1,16 @@
+invoice no. 9416
+Date of purchase: 2018/2/25
+=============================================================================================
+                                 Ashutosh Electronics
+                                 Bhainsepati,Lalitpur
+                                    565656,555556
+==============================================================================================
+Customer's Name: brij
+Name of the product: desktop
+No. of desktop= 30
+Total amount for desktop= 36000
+Total cost of the products= 36000.0
+Discount= 10%
+The Final cost of the products after discount= 32400.0
+==============================================================================================
+              Thanks for purchasing our product. Hope to see you soon :)
